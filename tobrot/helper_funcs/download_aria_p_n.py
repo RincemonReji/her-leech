@@ -76,11 +76,11 @@ async def aria_start():
     # aria2_daemon_start_cmd.append(f"--dir={DOWNLOAD_LOCATION}")
     # TODO: this does not work, need to investigate this.
     # but for now, https://t.me/TrollVoiceBot?start=858
-    aria2_daemon_start_cmd.append("--enable-rpc")
+    aria2_daemon_start_cmd.append("--enable-rpc=true")
     aria2_daemon_start_cmd.append("--follow-torrent=mem")
     aria2_daemon_start_cmd.append("--max-connection-per-server=10")
     aria2_daemon_start_cmd.append("--min-split-size=10M")
-    aria2_daemon_start_cmd.append("--rpc-listen-all=false")
+    aria2_daemon_start_cmd.append("--rpc-listen-all=true")
     aria2_daemon_start_cmd.append(f"--rpc-listen-port={ARIA_TWO_STARTED_PORT}")
     aria2_daemon_start_cmd.append("--rpc-max-request-size=1024M")
     aria2_daemon_start_cmd.append("--seed-time=0")
@@ -103,7 +103,7 @@ async def aria_start():
     aria2_daemon_start_cmd.append("--http-accept-gzip=true")
     aria2_daemon_start_cmd.append("--referer=*")
     aria2_daemon_start_cmd.append("--content-disposition-default-utf8=true")
-    aria2_daemon_start_cmd.append("--max-concurrent-downloads=6")
+    aria2_daemon_start_cmd.append("--max-concurrent-downloads=8")
 
     #
     LOGGER.info(aria2_daemon_start_cmd)
