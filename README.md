@@ -11,9 +11,11 @@
 
 # heroku deploy button 2x if one not work/buffer try another
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/AmirulAndalib/torrenteechX/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/AmirulAndalib/torrenteechX/tree/master) deploy button-1
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) deploy button-2 
+
+## both deploy buttons arent same....
 
 
 ## connect your github acc after deployment for better fun remember to fork dis repo connect github to heroku new app or either set vars from direct deploy here and connect with the forked version of mine.......
