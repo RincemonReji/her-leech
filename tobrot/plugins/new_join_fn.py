@@ -51,11 +51,11 @@ Syntax:- `[ID of the file or folder][one space][name of your folder only(If the 
 
 /gleechzip This command will compress the folder/file and will upload to your cloud.
 
-/leechunzip: This will unarchive file and dupload to telegram.
+/leechunzip: This will unarchive file and upload to telegram.
 
 /gleechunzip: This will unarchive file and upload to cloud.
 
-/tleech: This will mirror the telegram files to ur respective cloud cloud.
+/tleech: This will mirror the telegram files to ur respective cloud .
 
 /tleechunzip: This will unarchive telegram file and upload to cloud.
 
