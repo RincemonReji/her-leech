@@ -28,9 +28,11 @@ async def help_message_f(client, message):
         """Available Commands
 /rclone: This will change your drive config on fly.(First one will be default)
 
-/gclone: This command is used to clone gdrive files or folder using gclone.
 
- Syntax:- `[ID of the file or folder][one space][name of your folder only(If the id is of file, don't put anything)]` and then reply /gclone to it.
+/gclone: This command is used to clone gdrive files or folder using gclone.
+Syntax:- `[ID of the file or folder][one space][name of your folder only(If the id is of file, don't put anything)]` and then reply /gclone to it.
+ 
+ 
 /log: This will send you a txt file of the logs.
 
 /ytdl: This command should be used as reply to a supported link
