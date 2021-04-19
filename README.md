@@ -1,14 +1,14 @@
-# leave a star and fork my repo 😭 and Follow my github acc for more mods..
+ leave a star and fork my repo 😭 and Follow my github acc for more mods..
 
-# TDRRRENTleechGDrive Heroku MOD (may not be permanent) followup of doctor is advisory.....
+ TDRRRENTleechGDrive Heroku MOD (may not be permanent) followup of doctor is advisory.....
 
-# https://github.com/gautamajay52/TorrentLeech-Gdrive --original creator owner of the repo.....
+ https://github.com/gautamajay52/TorrentLeech-Gdrive --original creator owner of the repo.....
 
-# this repo contains latest patch from https://github.com/gautamajay52/TorrentLeech-Gdrive (cancel button).... will be followed by next/future patches aswell..
+ this repo contains latest patch from https://github.com/gautamajay52/TorrentLeech-Gdrive (cancel button).... will be followed by next/future patches aswell..
 
-# this repo contains Heroku Support with Rclone Support so No Ban Worries But dont rape too MUCHHHH. for Sake...
+ this repo contains Heroku Support with Rclone Support so No Ban Worries But dont rape too MUCHHHH. for Sake...
 
-# Dumbfucks are requested not to rape this repo or i will make it private and !!!!!!!!^&^!%@%%@%@@%#@#!%$%%&^%^&!%^&
+ Dumbfucks are requested not to rape this repo or i will make it private and !!!!!!!!^&^!%@%%@%@@%#@#!%$%%&^%^&!%^&
 
 
 # heroku deploy button 2x if one not work/buffer try another
